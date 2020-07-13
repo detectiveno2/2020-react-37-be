@@ -1,0 +1,86 @@
+{
+  "posts": [
+    {
+      "id": "BtPMcDTRZ",
+      "author": "hieu.yeuhatien",
+      "caption": "trời ban ánh sáng năm tháng tư bề, dáng ai về chung lối.",
+      "imageUrl": "http://localhost:5400/uploads/b22edf84dd79cbdd4afa52508124f448",
+      "likes": [
+        "hieu.yeuhatien",
+        "thien.deptrai"
+      ],
+      "comments": [
+        {
+          "id": "5mUJDPwyU",
+          "author": "thien.deptrai",
+          "content": "vại, kết cục của cu Hiếu cũng giống anh à"
+        },
+        {
+          "id": "aX3lmJjUW",
+          "author": "thien.deptrai",
+          "content": "vại, kết cục của cu Hiếu cũng giống anh à"
+        }
+      ]
+    },
+    {
+      "id": "oNzsNJdcV",
+      "author": "thien.deptrai",
+      "caption": "chẳng cần một ai nữa, bất kể ai cũng dư thừa",
+      "imageUrl": "http://localhost:5400/uploads/8c864e2c79cff74d6536144fc2d72486",
+      "likes": [
+        "thien.deptrai",
+        "trung.cay",
+        "hieu.yeuhatien"
+      ],
+      "comments": [
+        {
+          "id": "_YD8QYRyS",
+          "author": "trung.cay",
+          "content": "vãi, đại ca răn rứa"
+        },
+        {
+          "id": "oLOmX_uRf",
+          "author": "trung.cay",
+          "content": "thất tình à"
+        },
+        {
+          "id": "i0_tyB7gm",
+          "author": "hieu.yeuhatien",
+          "content": "chắc là rứa đó cu Trung"
+        }
+      ]
+    }
+  ],
+  "users": [
+    {
+      "id": "tlUkq8Lm-",
+      "email": "nguyenthien@gmail.com",
+      "userName": "thien.deptrai",
+      "password": "$2a$10$E/ow7Drq565Zw/w2Ni495OBMSdU1BWiF647HZ1JdN3RJZLt6pR69W"
+    },
+    {
+      "id": "R1P5fYRsg",
+      "email": "nguyentrung@gmail.com",
+      "userName": "trung.cay",
+      "password": "$2a$10$i2yfWSrF26qvtK1Sb9AGzeGVQzj6i/2uvn/eQTgBy1pciiD7/d8Cy"
+    },
+    {
+      "id": "HYExXu6Ml",
+      "email": "nguyenhieu@gmail.com",
+      "userName": "hieu.yeuhatien",
+      "password": "$2a$10$WMCAuvYPrZLQrrbrZrYV2.FqRtqXabpnWrZM8hBsvkGji8fcPJ0D2"
+    }
+  ],
+  "notifications": [
+    {
+      "owner": "hieu.yeuhatien",
+      "content": "thien.deptrai liked your photo.",
+      "isRead": false
+    },
+    {
+      "owner": "hieu.yeuhatien",
+      "content": "thien.deptrai commented about your photo.",
+      "isRead": false
+    }
+  ]
+}
