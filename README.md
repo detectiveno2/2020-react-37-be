@@ -16,7 +16,7 @@ I deployed this using basic way.
 
    `git init`
    
-   `git clone https://github.com/detectiveno2/exercise-css.git`
+   `git clone https://github.com/detectiveno2/2020-react-37-be`
 
 2. Go to Back-end folder that you have just clone.
 
