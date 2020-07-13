@@ -16,7 +16,7 @@ I deployed this using basic way.
    `git init`
    `git clone https://github.com/detectiveno2/exercise-css.git`
 
-2. Go to Back-end folder.
+2. Go to Back-end folder that you have just clone.
 
 3. Install all package of npm:
    `npm install`
