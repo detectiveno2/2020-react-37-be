@@ -13,16 +13,21 @@ I deployed this using basic way.
 ## Demo
 
 1. Clone this source code:
+
    `git init`
+   
    `git clone https://github.com/detectiveno2/exercise-css.git`
 
 2. Go to Back-end folder that you have just clone.
 
 3. Install all package of npm:
+
    `npm install`
 
 4. Create `.env` file, and declare JWT_TOKEN variable:
+
    `JWT_TOKEN=cn528745cvhng48chvg5047`
 
 5. Run server:
+
    `npm start`
