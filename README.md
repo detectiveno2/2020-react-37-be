@@ -2,6 +2,8 @@
 
 Exercise React for CoderX 2020 Course.
 
+Thanks to CodersX help me to complete this exercise.
+
 ## Deployment
 
 I deployed this using basic way.
