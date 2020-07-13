@@ -8,7 +8,7 @@ I deployed this using basic way.
 
 ## Built with
 
-- [Express](http://expressjs.com/) - Express server of Nodejs
+- [Express](http://expressjs.com/) - Express server of Nodejs.
 
 ## Demo
 
@@ -31,3 +31,5 @@ I deployed this using basic way.
 5. Run server:
 
    `npm start`
+
+**Note: This is only front-end source code, you need to have back-end source code. Check it [here](https://github.com/detectiveno2/2020-react-37-fe).**
